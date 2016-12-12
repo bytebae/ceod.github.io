@@ -1,6 +1,0 @@
-{
-  "name": "Welcome to the Zerops website",
-  "tagline": "",
-  "body": "### Welcome to the Zerops web resource\r\nThis is currently a github page, which uses Jekyll to serve static content.  \r\nThe resource is currently a WIP.  \r\nFeel free to check it out again later for some cool content\r\n\r\n#### Note to self: Creating pages manually\r\nIf you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
